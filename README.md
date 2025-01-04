@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Django,Flask**
+- 🌱 I’m currently learning **Springboot, MicroServices**
 
-- 💬 Ask me about **DSA,Python,SQL**
+- 💬 Ask me about **Backend,Java,SQL**
 
 - 📫 How to reach me **madhusudhanchittibabu@gmail.com**
 
